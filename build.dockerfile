@@ -1,2 +1,0 @@
-#bash terminal
-FROM scratch
